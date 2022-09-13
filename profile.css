@@ -1,0 +1,76 @@
+body{
+  background-image: linear-gradient(to right, rgb(240, 214, 206) , rgb(190, 215, 250));
+
+
+}
+h1{
+  font-size: 50px;
+  color:rgb(209, 52, 78);
+  margin: 25px;
+  text-decoration-line:underline;
+   font: italic small-caps bold 50px/30px Georgia, serif;
+}
+h2  {
+  font-size: 35px;
+  color:rgb(25, 47, 99);
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+ main p b{
+    color:rgb(25, 47, 99);
+    font-size: 25px;
+    text-decoration-line:underline;
+}
+p{
+  text-indent: length|initial|inherit;
+  font-size: 25px;
+
+
+}
+section b {
+    color:rgb(25, 47, 99);
+    font-size: 25px;
+    text-decoration-line:underline;
+
+}
+div b {
+  color:rgb(25, 47, 99);
+  text-decoration-line:underline;
+  font-size: 25px;
+
+}
+
+table, th, td {
+  border: 1px solid;
+}
+
+.aboutme {
+
+    float: right;
+    height: 100px;
+    font-size: 20px;
+    font-family: 'Ink Free', sans-serif;
+    width: 50%;
+}
+.aboutme h3{
+  text-decoration-line:underline;
+  color:rgb(25, 47, 99);
+
+}
+.vl {
+  border-left: 2.5px solid black;
+  height: 600px;
+  float:right;
+  width:55%;
+}
+.skills {
+  font-size: 25px;
+}
+.table {
+  font-size: 20px;
+}
+.link a{
+  font-size: 20px;
+}
+.internship{
+  font-size: 20px;
